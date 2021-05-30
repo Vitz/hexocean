@@ -1,0 +1,16 @@
+asgiref==3.3.4
+da-vinci==0.3.0
+Django==3.2.3
+django-appconf==1.0.4
+django-imagekit==2.0.4
+django-thumbnails==0.5.0
+djangorestframework==3.12.4
+image==1.5.33
+Pillow==8.2.0
+Pygments==2.9.0
+pytz==2021.1
+shortuuid==1.0.1
+six==1.16.0
+sqlparse==0.4.1
+typing-extensions==3.10.0.0
+uuid==1.30
