@@ -17,7 +17,7 @@ uuid==1.30
 djangorestframework==3.12.4  
 Django==3.2.3  
   
-// I attached requirements.txt file but packages like django-thumbnails or django-imagekit hasnt been used, there is no need to install it.  
+// I attached requirements.txt file but packages like django-thumbnails or django-imagekit haven't been used, there is no need to install it.  
     
 # Other
 Most of image urls are hidden, but still achievable using static path dispatcher. Thumbnails are generated only once when user visit an imagle isntance. I used a 'proxy' method to hide generated thumnails from other users.  
