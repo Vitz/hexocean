@@ -3,7 +3,7 @@
 
 
 # Url 
-seotest.patrykorganisciak.pl  
+http://seotest.patrykorganisciak.pl  
 
 # User instances:  
 user_basic 8BVAk5j9wkTnMeR 
